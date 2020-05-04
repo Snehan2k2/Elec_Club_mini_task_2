@@ -15,5 +15,5 @@ Aluminium wire => Analog pins on Arduino => Buzzer, LCD display, Motor
 | Aluminium wires | Aluminium is a good conductor of electricity | They are light in weight and have the same conductivity as copper | It is prone to fire hazards |
 | Arduino | Usually hard, unless very skilled and experienced | Very cheap and easily programmable if one can identify what to do | Hard for beginners | 
 | Buzzer | They are easily available | It can produce sounds of different frequency | It cannot produce sounds with DC signal |
-| Motor | 
-| LCD display |
+| Motor | Easy to control | Because of low level control, we can customize it further | It costs more compared to the other ones |
+| LCD display | Easy to display | It is very compact, thin, and light | It consumes a lot of electricity which produces a lot of heat |
