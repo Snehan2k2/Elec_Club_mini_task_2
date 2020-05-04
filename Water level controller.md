@@ -10,7 +10,7 @@ Also, the data regarding the quantity of water is displayed on the internet.
 
 Aluminium wire => Analog pins on Arduino => Buzzer, LCD display, Motor
 
-| **Part of the pathway | Feasibility | Advantages | Disadvantages** |
+| **Part of the pathway** | Feasibility | Advantages | Disadvantages** |
 |---|---|---|--|
 | Aluminium wires | Aluminium is a good conductor of electricity | They are light in weight and have the same conductivity as copper | It is prone to fire hazards |
 | Arduino | Usually hard, unless very skilled and experienced | Very cheap and easily programmable if one can identify what to do | Hard for beginners | 
