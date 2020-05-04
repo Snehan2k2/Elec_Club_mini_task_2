@@ -18,7 +18,8 @@ Aluminium wire => Analog pins on Arduino => Buzzer, LCD display, Motor
 | Motor | Easy to control | Because of low level control, we can customize it further | It costs more compared to the other ones |
 | LCD display | Easy to display | It is very compact, thin, and light | It consumes a lot of electricity which produces a lot of heat |
 
-Choosing a pipeline:
+*Choosing a pipeline*:
+
 From the above pathway, we choose Arduino part of the pathway. We replace Arduino with ESP-32. The advantages being ESP-32 being cheaper than the Arduino. With the help of IoT, ESP-32 helps us to display information regarding the quantity of water in the internet.
 
 **Prototyping phase:**
