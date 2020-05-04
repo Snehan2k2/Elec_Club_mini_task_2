@@ -22,4 +22,4 @@ Button => HT-12E Encoder IC => RF transmitter => RF receiver => HT-12D Decoder =
 
 From the above pathway, we choose the RF communication part. Instead of RF communication, we can use HC-05 buletooth module and connect it to the Arduino board.
 
-Prototyping phase: Here, we build the product in this phase and test and debug it.
+**Prototyping phase**: Here, we build the product in this phase and test and debug it.
